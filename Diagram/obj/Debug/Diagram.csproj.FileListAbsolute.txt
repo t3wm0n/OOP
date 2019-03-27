@@ -1,0 +1,41 @@
+C:\Users\Kisya\Documents\Visual Studio 2015\Projects\Diagram\Diagram\bin\Debug\Diagram.exe.config
+C:\Users\Kisya\Documents\Visual Studio 2015\Projects\Diagram\Diagram\bin\Debug\Diagram.exe
+C:\Users\Kisya\Documents\Visual Studio 2015\Projects\Diagram\Diagram\bin\Debug\Diagram.pdb
+C:\Users\Kisya\Documents\Visual Studio 2015\Projects\Diagram\Diagram\obj\Debug\Diagram.csprojResolveAssemblyReference.cache
+C:\Users\Kisya\Documents\Visual Studio 2015\Projects\Diagram\Diagram\obj\Debug\Diagram.Form1.resources
+C:\Users\Kisya\Documents\Visual Studio 2015\Projects\Diagram\Diagram\obj\Debug\Diagram.Properties.Resources.resources
+C:\Users\Kisya\Documents\Visual Studio 2015\Projects\Diagram\Diagram\obj\Debug\Diagram.csproj.GenerateResource.Cache
+C:\Users\Kisya\Documents\Visual Studio 2015\Projects\Diagram\Diagram\obj\Debug\Diagram.exe
+C:\Users\Kisya\Documents\Visual Studio 2015\Projects\Diagram\Diagram\obj\Debug\Diagram.pdb
+C:\Users\Kisya\Documents\Visual Studio 2015\Projects\Diagram\Diagram\bin\Debug\Date.txt
+C:\Users\Kisya\Documents\Visual Studio 2015\Projects\Diagram\Diagram\bin\Debug\g.txt
+C:\Users\Kisya\Documents\Visual Studio 2015\Projects\Diagram\Diagram\obj\Debug\Diagram.Form2.resources
+C:\Users\Kisya\Documents\Visual Studio 2015\Projects\Diagram\Diagram\obj\Debug\Diagram.Form3.resources
+F:\Diagram\Diagram\bin\Debug\Date.txt
+F:\Diagram\Diagram\bin\Debug\g.txt
+F:\Diagram\Diagram\bin\Debug\Diagram.exe.config
+F:\Diagram\Diagram\bin\Debug\Diagram.exe
+F:\Diagram\Diagram\bin\Debug\Diagram.pdb
+F:\Diagram\Diagram\obj\Debug\Diagram.csprojAssemblyReference.cache
+F:\Diagram\Diagram\obj\Debug\Diagram.Form1.resources
+F:\Diagram\Diagram\obj\Debug\Diagram.Form2.resources
+F:\Diagram\Diagram\obj\Debug\Diagram.Form3.resources
+F:\Diagram\Diagram\obj\Debug\Diagram.Properties.Resources.resources
+F:\Diagram\Diagram\obj\Debug\Diagram.csproj.GenerateResource.cache
+F:\Diagram\Diagram\obj\Debug\Diagram.csproj.CoreCompileInputs.cache
+F:\Diagram\Diagram\obj\Debug\Diagram.exe
+F:\Diagram\Diagram\obj\Debug\Diagram.pdb
+C:\Users\maxim\YandexDisk\Уроки\ООП\2\Diagram\Diagram\bin\Debug\Date.txt
+C:\Users\maxim\YandexDisk\Уроки\ООП\2\Diagram\Diagram\bin\Debug\g.txt
+C:\Users\maxim\YandexDisk\Уроки\ООП\2\Diagram\Diagram\bin\Debug\Diagram.exe.config
+C:\Users\maxim\YandexDisk\Уроки\ООП\2\Diagram\Diagram\bin\Debug\Diagram.exe
+C:\Users\maxim\YandexDisk\Уроки\ООП\2\Diagram\Diagram\bin\Debug\Diagram.pdb
+C:\Users\maxim\YandexDisk\Уроки\ООП\2\Diagram\Diagram\obj\Debug\Diagram.csprojAssemblyReference.cache
+C:\Users\maxim\YandexDisk\Уроки\ООП\2\Diagram\Diagram\obj\Debug\Diagram.Form1.resources
+C:\Users\maxim\YandexDisk\Уроки\ООП\2\Diagram\Diagram\obj\Debug\Diagram.Form2.resources
+C:\Users\maxim\YandexDisk\Уроки\ООП\2\Diagram\Diagram\obj\Debug\Diagram.Form3.resources
+C:\Users\maxim\YandexDisk\Уроки\ООП\2\Diagram\Diagram\obj\Debug\Diagram.Properties.Resources.resources
+C:\Users\maxim\YandexDisk\Уроки\ООП\2\Diagram\Diagram\obj\Debug\Diagram.csproj.GenerateResource.cache
+C:\Users\maxim\YandexDisk\Уроки\ООП\2\Diagram\Diagram\obj\Debug\Diagram.csproj.CoreCompileInputs.cache
+C:\Users\maxim\YandexDisk\Уроки\ООП\2\Diagram\Diagram\obj\Debug\Diagram.exe
+C:\Users\maxim\YandexDisk\Уроки\ООП\2\Diagram\Diagram\obj\Debug\Diagram.pdb
